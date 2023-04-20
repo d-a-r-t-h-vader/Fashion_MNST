@@ -9,7 +9,8 @@ First I used Autoencoder with linear model reducing the dimensions to 2. Then ad
 <p float="left">
   <img src="https://user-images.githubusercontent.com/57395643/233425046-378293ca-0ae5-4c6c-bd69-480efddad9e3.png" width=300 height=200 alt="Linear"/>
   
-  *Train Loss - Linear*
+  <em>logo_caption</em>
+
   
   <img src="https://user-images.githubusercontent.com/57395643/233425090-c98509d9-54b8-492b-98da-5cebc327c9f5.png" width=300 height=182 alt=""/>
   
