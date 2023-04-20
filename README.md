@@ -7,7 +7,7 @@ First I used Autoencoder with linear model reducing the dimensions to 2. Then ad
 
 
 
-<img src="[image_url](https://user-images.githubusercontent.com/57395643/233425046-378293ca-0ae5-4c6c-bd69-480efddad9e3.png)" width=300 height=200 alt="">
+<img src="https://user-images.githubusercontent.com/57395643/233425046-378293ca-0ae5-4c6c-bd69-480efddad9e3.png" width=300 height=200 alt="">
 
 
 | ![HW2 4lin_loss](https://user-images.githubusercontent.com/57395643/233425046-378293ca-0ae5-4c6c-bd69-480efddad9e3.png)  | ![HW4Only_linear](https://user-images.githubusercontent.com/57395643/233425090-c98509d9-54b8-492b-98da-5cebc327c9f5.png)|
