@@ -8,18 +8,24 @@ First I used Autoencoder with linear model reducing the dimensions to 2. Then ad
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/57395643/233425046-378293ca-0ae5-4c6c-bd69-480efddad9e3.png" width=300 height=200 alt="Linear"/>
+  *Train Loss - Linear*
   <img src="https://user-images.githubusercontent.com/57395643/233425090-c98509d9-54b8-492b-98da-5cebc327c9f5.png" width=300 height=182 alt=""/>
+  *Low Dimension Projection using Linear Model*
 </p>
 
 
 <p float="left">
  <img src="https://user-images.githubusercontent.com/57395643/233425151-5b068830-6308-4528-82c4-24dcf9803102.png" width=300 height=220 alt=""/>
+ *Train Loss - Linear + TSNE*
  <img src="https://user-images.githubusercontent.com/57395643/233425219-a6820f15-00f7-4c51-8132-392ad1f578ef.png" width=300 height=182 alt=""/>
+  *Low Dimension Projection*
 </p>
 
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/57395643/233425443-5d32e070-9b17-44ee-8f02-2f9bfdb354e0.png" width=300 height=220 alt=""/>
+   *Train Loss - Linear + TSNE*
   <img src="https://user-images.githubusercontent.com/57395643/233425373-6ddd9f26-d55b-4919-b7ff-698cd5e1e120.png" width=300 height=182 alt=""/>
+    *Low Dimension Projection*
 </p>
 
